@@ -4,7 +4,7 @@ Set Up
 - VS 
 - IIS
 - DI
-- Git
+- GitHub - DONE
 - MS SQL 
 - Dapper
 - Fiddler - DONE
