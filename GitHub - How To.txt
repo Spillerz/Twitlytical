@@ -1,0 +1,11 @@
+git clone "git link" - bring down branch at URL
+
+git status - see changes
+
+git add . - add all changes
+
+git commit -m "mesage" - commit changes to repo (N.B. commited but still on machine, not synced to github.com)
+
+git push - take anything on my machine and push to github.com
+
+git pull - pull down any updates from github.com
