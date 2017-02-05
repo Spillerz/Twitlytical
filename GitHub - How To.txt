@@ -9,3 +9,5 @@ git commit -m "mesage" - commit changes to repo (N.B. commited but still on mach
 git push - take anything on my machine and push to github.com
 
 git pull - pull down any updates from github.com
+
+*** esc:wq - get out of commit with no message screen  
