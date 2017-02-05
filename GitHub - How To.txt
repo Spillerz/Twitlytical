@@ -13,3 +13,14 @@ git push - take anything on my machine and push to github.com
 git pull - pull down any updates from github.com
 
 *** esc:wq - get out of commit with no message screen  
+
+
+
+Checking out new branch 
+
+git branch v0.0.0.1
+
+git pull https://github.com/Spillerz/Twitlytical.git v0.0.0.1
+
+git branch --set-upstream-to=origin/<branch> 
+
